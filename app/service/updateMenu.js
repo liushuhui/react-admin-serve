@@ -1,7 +1,5 @@
 
 const Service = require('egg').Service;
-const mongoose=require('mongoose');
-
 class UpdateMenuService extends Service {
   async index() {
     const {ctx} = this;
