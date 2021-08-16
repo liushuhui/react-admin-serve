@@ -1,0 +1,1499 @@
+2021-07-27 13:36:37,101 ERROR 8356 [-/127.0.0.1/-/12ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8356
+hostname: DESKTOP-FI223C1
+
+2021-07-27 13:39:32,864 ERROR 8356 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8356
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:16:53,378 ERROR 12712 [-/127.0.0.1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:16:59,471 ERROR 12712 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:35,846 ERROR 12712 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:45,927 ERROR 12612 [-/127.0.0.1/-/4ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12612
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:47,155 ERROR 12612 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12612
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:21:33,330 ERROR 7796 [-/127.0.0.1/-/9ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 7796
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:21:58,489 ERROR 8572 [-/127.0.0.1/-/8ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8572
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:24:24,320 ERROR 10324 [-/127.0.0.1/-/9ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 10324
+hostname: DESKTOP-FI223C1
+
+2021-07-27 16:20:42,916 ERROR 10512 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\testProject\\react-admin-serve\\app\\service\\login"
+name: "EPERMError"
+pid: 10512
+hostname: DESKTOP-FI223C1
+
+2021-07-27 16:57:03,678 ERROR 5752 nodejs.ClusterClientNoResponseError: client no response in 77467ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5752
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:13:44,086 ERROR 5752 nodejs.ClusterClientNoResponseError: client no response in 62657ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5752
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:23:24,221 ERROR 1068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 1068
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:24:44,390 ERROR 5752 nodejs.ClusterClientNoResponseError: client no response in 78393ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5752
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:27:31,504 ERROR 14032 [-/::1/-/23578ms POST /login] nodejs.ReferenceError: res is not defined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:10:7)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14032
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:30:44,521 ERROR 5752 nodejs.ClusterClientNoResponseError: client no response in 61434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 5752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 09:08:57,074 ERROR 6108 nodejs.ClusterClientNoResponseError: client no response in 76551ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6108
+hostname: DESKTOP-FI223C1
+
+2021-07-28 09:29:57,615 ERROR 6108 nodejs.ClusterClientNoResponseError: client no response in 71468ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6108
+hostname: DESKTOP-FI223C1
+
+2021-07-28 09:34:37,732 ERROR 6108 nodejs.ClusterClientNoResponseError: client no response in 64830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6108
+hostname: DESKTOP-FI223C1
+
+2021-07-28 12:34:06,568 ERROR 6108 nodejs.ClusterClientNoResponseError: client no response in 1973841ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6108
+hostname: DESKTOP-FI223C1
+
+2021-07-28 12:34:06,646 ERROR 10236 nodejs.ClusterClientNoResponseError: client no response in 1955087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 10236
+hostname: DESKTOP-FI223C1
+
+2021-07-28 13:07:45,864 ERROR 10236 nodejs.ClusterClientNoResponseError: client no response in 2019187ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 10236
+hostname: DESKTOP-FI223C1
+
+2021-07-28 13:07:45,886 ERROR 6108 nodejs.ClusterClientNoResponseError: client no response in 2019165ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6108
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:14:01,952 ERROR 14276 [-/::1/-/30ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14276
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:14:33,738 ERROR 12496 [-/::1/-/27ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12496
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:16:01,328 ERROR 14600 [-/::1/-/31ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14600
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:02,538 ERROR 11828 [-/::1/-/34ms POST /login] nodejs.TypeError: Cannot read property 'create' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11828
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:36,880 ERROR 10364 [-/::1/-/42ms POST /login] nodejs.TypeError: Cannot read property 'create' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:14)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10364
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:46,119 ERROR 8304 [-/::1/-/38ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:14)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8304
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:22:02,187 ERROR 10752 [-/::1/-/30ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:27:29,743 ERROR 10752 [-/::1/-/5ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:27:57,901 ERROR 10752 [-/::1/-/6ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:29:11,192 ERROR 11532 nodejs.ClusterClientNoResponseError: client no response in 72900ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11532
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:38:57,667 ERROR 1308 [-/::1/-/9590ms POST /login] nodejs.TypeError: Cannot read property 'password' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:12:59)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:19)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1308
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:38:57,686 ERROR 1308 nodejs.ValidationError: User validation failed: password: Path `password` is required., username: Path `username` is required.
+    at model.Document.invalidate (D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2760:32)
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2552:17
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\schematype.js:1273:9
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+errors: {"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}}
+_message: "User validation failed"
+pid: 1308
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:53:11,782 ERROR 13336 [-/::1/-/78ms POST /login] nodejs.ValidationError: User validation failed: password: Path `password` is required., username: Path `username` is required.
+    at model.Document.invalidate (D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2760:32)
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2552:17
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\schematype.js:1273:9
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+errors: {"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13336
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:07:52,105 ERROR 11532 nodejs.ClusterClientNoResponseError: client no response in 67661ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11532
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:11:04,205 ERROR 14532 [-/::1/-/56ms POST /login] nodejs.ReferenceError: res is not defined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:21:7)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14532
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:14:21,690 ERROR 2256 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 2256
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:23:16,048 ERROR 16020 [-/::1/-/67ms POST /login] nodejs.TypeError: Cannot read property 'password' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:47)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16020
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:25:49,611 ERROR 10404 [-/::1/-/44ms POST /login] nodejs.TypeError: Cannot read property 'password' of null
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:42)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10404
+hostname: DESKTOP-FI223C1
+
+2021-07-29 09:11:34,672 ERROR 15412 [-/::1/-/33ms POST /login] nodejs.ReferenceError: admin is not defined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:42)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15412
+hostname: DESKTOP-FI223C1
+
+2021-07-29 09:18:26,334 ERROR 12836 nodejs.ClusterClientNoResponseError: client no response in 77690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 12836
+hostname: DESKTOP-FI223C1
+
+2021-07-29 09:55:56,134 ERROR 15244 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 15244
+hostname: DESKTOP-FI223C1
+
+2021-07-29 11:18:39,650 ERROR 15244 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 15244
+hostname: DESKTOP-FI223C1
+
+2021-07-29 13:02:50,180 ERROR 12836 nodejs.ClusterClientNoResponseError: client no response in 3648193ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 12836
+hostname: DESKTOP-FI223C1
+
+2021-07-29 13:02:50,173 ERROR 15244 nodejs.ClusterClientNoResponseError: client no response in 3649341ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 15244
+hostname: DESKTOP-FI223C1
+
+2021-07-29 14:12:28,758 ERROR 15244 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 15244
+hostname: DESKTOP-FI223C1
+
+2021-07-29 14:26:39,454 ERROR 15416 [-/::1/-/48ms POST /login] nodejs.TypeError: Cannot read property 'sign' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15416
+hostname: DESKTOP-FI223C1
+
+2021-07-29 14:28:04,853 ERROR 15416 [-/::1/-/43828ms POST /login] nodejs.TypeError: Cannot read property 'sign' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15416
+hostname: DESKTOP-FI223C1
+
+2021-07-29 15:42:58,491 ERROR 9428 nodejs.ClusterClientNoResponseError: client no response in 78978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 9428
+hostname: DESKTOP-FI223C1
+
+2021-07-29 15:54:22,445 ERROR 11060 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:63648)
+    at afterWriteDispatched (internal/stream_base_commons.js:156:25)
+    at writeGeneric (internal/stream_base_commons.js:147:3)
+    at Socket._writeGeneric (net.js:785:11)
+    at Socket._write (net.js:797:8)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+    at Socket.Writable.write (internal/streams/writable.js:303:10)
+    at Follower.sendHeartBeat (D:\testProject\react-admin-serve\node_modules\tcp-base\lib\base.js:105:18)
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\tcp-base\lib\base.js:437:12)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+errno: -4079
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 11060
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:19:47,309 ERROR 14116 nodejs.ClusterClientNoResponseError: client no response in 65468ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 14116
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:30:39,183 ERROR 8912 nodejs.ClusterClientNoResponseError: client no response in 61338ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8912
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:32:59,232 ERROR 8912 nodejs.ClusterClientNoResponseError: client no response in 77277ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8912
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:35:39,276 ERROR 8912 nodejs.ClusterClientNoResponseError: client no response in 72641ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8912
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:40:26,984 ERROR 8960 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:54136)
+    at afterWriteDispatched (internal/stream_base_commons.js:156:25)
+    at writeGeneric (internal/stream_base_commons.js:147:3)
+    at Socket._writeGeneric (net.js:785:11)
+    at Socket._write (net.js:797:8)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+    at Socket.Writable.write (internal/streams/writable.js:303:10)
+    at Follower.sendHeartBeat (D:\testProject\react-admin-serve\node_modules\tcp-base\lib\base.js:105:18)
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\tcp-base\lib\base.js:437:12)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+errno: -4079
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 8960
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:40:48,236 ERROR 13164 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13164
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:35:23,935 ERROR 10272 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10272
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:56:18,981 ERROR 7688 [-/::1/-/4ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7688
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:57:25,616 ERROR 7688 [-/::1/-/1ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7688
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:58:13,137 ERROR 7120 [-/::1/-/2ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7120
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:59:04,289 ERROR 8912 [-/::1/-/4ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8912
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:00:50,828 ERROR 7132 nodejs.ClusterClientNoResponseError: client no response in 68343ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 7132
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:01:07,999 ERROR 12396 [-/::1/-/80131ms GET /admin] nodejs.TypeError: Assignment to constant variable.
+    at jwt (D:\testProject\react-admin-serve\app\middleware\auth.js:4:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12396
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:01:47,625 ERROR 6088 [-/::1/-/21704ms GET /admin] nodejs.TypeError: Assignment to constant variable.
+    at jwt (D:\testProject\react-admin-serve\app\middleware\auth.js:4:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6088
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:07:42,390 ERROR 16684 nodejs.ClusterClientNoResponseError: client no response in 64242ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 16684
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:24:10,136 ERROR 16684 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16684
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:25:20,608 ERROR 7208 [-/::1/-/50965ms GET /admin] nodejs.TokenExpiredError: jwt expired
+    at D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:94:10)
+    at AsyncFunction.<computed>.verify (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\extend\application.js:42:20)
+    at D:\testProject\react-admin-serve\app\middleware\auth.js:8:43
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+name: "TokenExpiredError"
+message: "jwt expired"
+expiredAt: "2021-07-30T01:59:13.000Z"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7208
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:26:42,832 ERROR 16684 nodejs.ClusterClientNoResponseError: client no response in 62185ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 16684
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:29:51,961 ERROR 16684 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16684
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:32:24,911 ERROR 14628 [-/::1/-/3687ms GET /admin] nodejs.JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:63:17)
+    at AsyncFunction.<computed>.verify (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\extend\application.js:42:20)
+    at authJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:8:43)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+name: "JsonWebTokenError"
+message: "jwt malformed"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14628
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:51:49,472 ERROR 1096 [-/::1/-/7ms GET /admin] nodejs.TypeError: Cannot read property 'login' of undefined
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:10:44)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1096
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:53:37,653 ERROR 3220 [-/::1/-/8ms GET /admin] nodejs.TypeError: Cannot read property 'login' of undefined
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:10:44)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3220
+hostname: DESKTOP-FI223C1
+
+2021-07-30 11:13:35,811 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 65411ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 12:34:43,344 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 1943088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 13:02:58,503 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 1695127ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 13:14:37,592 ERROR 11232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 13:15:58,805 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 61179ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 14:13:00,099 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 69321ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 15:27:21,851 ERROR 11232 nodejs.ClusterClientNoResponseError: client no response in 65084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-07-30 16:43:26,277 ERROR 11232 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11232
+hostname: DESKTOP-FI223C1
+
+2021-08-04 12:33:21,121 ERROR 488 nodejs.ClusterClientNoResponseError: client no response in 1831410ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 488
+hostname: DESKTOP-FI223C1
+
+2021-08-04 13:06:02,608 ERROR 488 nodejs.ClusterClientNoResponseError: client no response in 1961469ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 488
+hostname: DESKTOP-FI223C1
+
+2021-08-04 13:52:22,251 ERROR 488 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 488
+hostname: DESKTOP-FI223C1
+
+2021-08-04 14:14:24,438 ERROR 488 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 488
+hostname: DESKTOP-FI223C1
+
+2021-08-05 12:32:31,880 ERROR 10184 nodejs.ClusterClientNoResponseError: client no response in 1824318ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 10184
+hostname: DESKTOP-FI223C1
+
+2021-08-05 13:12:52,851 ERROR 10184 nodejs.ClusterClientNoResponseError: client no response in 2420950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 10184
+hostname: DESKTOP-FI223C1
+
+2021-08-05 13:34:39,792 ERROR 10184 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10184
+hostname: DESKTOP-FI223C1
+
+2021-08-05 15:39:13,553 ERROR 10184 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10184
+hostname: DESKTOP-FI223C1
+
+2021-08-06 12:08:01,754 ERROR 6588 nodejs.ClusterClientNoResponseError: client no response in 397127ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6588
+hostname: DESKTOP-FI223C1
+
+2021-08-06 12:31:47,564 ERROR 6588 nodejs.ClusterClientNoResponseError: client no response in 1425768ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6588
+hostname: DESKTOP-FI223C1
+
+2021-08-06 13:07:12,236 ERROR 6588 nodejs.ClusterClientNoResponseError: client no response in 2124627ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 6588
+hostname: DESKTOP-FI223C1
+
+2021-08-06 16:39:45,932 ERROR 6588 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 6588
+hostname: DESKTOP-FI223C1
+
+2021-08-09 12:31:53,480 ERROR 9836 nodejs.ClusterClientNoResponseError: client no response in 1815149ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 9836
+hostname: DESKTOP-FI223C1
+
+2021-08-09 13:05:22,430 ERROR 9836 nodejs.ClusterClientNoResponseError: client no response in 2008899ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 9836
+hostname: DESKTOP-FI223C1
+
+2021-08-10 12:32:06,128 ERROR 11128 nodejs.ClusterClientNoResponseError: client no response in 1824812ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11128
+hostname: DESKTOP-FI223C1
+
+2021-08-10 13:02:40,931 ERROR 11128 nodejs.ClusterClientNoResponseError: client no response in 1834794ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11128
+hostname: DESKTOP-FI223C1
+
+2021-08-10 14:29:29,953 ERROR 11128 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11128
+hostname: DESKTOP-FI223C1
+
+2021-08-10 16:54:38,458 ERROR 11128 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11128
+hostname: DESKTOP-FI223C1
+
+2021-08-10 17:18:07,034 ERROR 11128 nodejs.ClusterClientNoResponseError: client no response in 70854ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 11128
+hostname: DESKTOP-FI223C1
+
+2021-08-11 12:55:25,571 ERROR 4540 nodejs.ClusterClientNoResponseError: client no response in 3276743ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 4540
+hostname: DESKTOP-FI223C1
+
+2021-08-11 14:24:49,287 ERROR 4540 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 4540
+hostname: DESKTOP-FI223C1
+
+2021-08-11 16:00:10,572 ERROR 4540 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 4540
+hostname: DESKTOP-FI223C1
+
+2021-08-11 16:17:17,958 ERROR 16456 nodejs.ClusterClientNoResponseError: client no response in 79199ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 16456
+hostname: DESKTOP-FI223C1
+
+2021-08-11 17:07:54,794 ERROR 16456 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16456
+hostname: DESKTOP-FI223C1
+
+2021-08-12 10:44:10,503 ERROR 8764 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 13:01:57,530 ERROR 8764 nodejs.ClusterClientNoResponseError: client no response in 3624676ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 14:43:25,645 ERROR 8764 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 14:52:26,210 ERROR 8764 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 15:06:00,430 ERROR 8764 nodejs.ClusterClientNoResponseError: client no response in 60403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 15:09:40,500 ERROR 8764 nodejs.ClusterClientNoResponseError: client no response in 61265ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 15:47:53,999 ERROR 8764 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 16:09:21,867 ERROR 8764 nodejs.ClusterClientNoResponseError: client no response in 61674ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 16:50:33,037 ERROR 8764 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-12 17:06:23,235 ERROR 8764 nodejs.ClusterClientNoResponseError: client no response in 78683ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 8764
+hostname: DESKTOP-FI223C1
+
+2021-08-13 09:53:40,994 ERROR 18556 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18556
+hostname: DESKTOP-FI223C1
+
+2021-08-13 11:05:59,842 ERROR 18556 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18556
+hostname: DESKTOP-FI223C1
+
+2021-08-13 12:11:31,775 ERROR 18556 nodejs.ClusterClientNoResponseError: client no response in 621857ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 18556
+hostname: DESKTOP-FI223C1
+
+2021-08-13 13:10:51,880 ERROR 18556 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18556
+hostname: DESKTOP-FI223C1
+
+2021-08-13 14:12:28,609 ERROR 17284 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 17284
+hostname: DESKTOP-FI223C1
+
+2021-08-13 15:16:32,684 ERROR 6236 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 6236
+hostname: DESKTOP-FI223C1
+
+2021-08-13 16:54:53,617 ERROR 6236 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 6236
+hostname: DESKTOP-FI223C1
+
+2021-08-13 17:18:28,156 ERROR 6236 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 6236
+hostname: DESKTOP-FI223C1
+
+2021-08-14 09:45:23,542 ERROR 18388 nodejs.ClusterClientNoResponseError: client no response in 60676ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\testProject\react-admin-serve\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 18388
+hostname: DESKTOP-FI223C1
+
+2021-08-14 14:44:15,026 ERROR 18388 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+    at TCP.callbackTrampoline (internal/async_hooks.js:131:14)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18388
+hostname: DESKTOP-FI223C1
+

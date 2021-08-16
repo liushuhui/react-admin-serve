@@ -1,0 +1,295 @@
+{
+  "keys": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+  "middleware": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+  "mongoose": {
+    "client": {
+      "url": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+      "options": "D:\\testProject\\react-admin-serve\\config\\config.default.js"
+    },
+    "url": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "options": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "plugins": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "loadModel": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "D:\\testProject\\react-admin-serve\\node_modules\\egg-mongoose\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "auth": {
+    "ignore": "D:\\testProject\\react-admin-serve\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+      "type": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "protocolWhiteList": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "credentials": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "allowMethods": "D:\\testProject\\react-admin-serve\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\testProject\\react-admin-serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\testProject\\react-admin-serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\testProject\\react-admin-serve\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\testProject\\react-admin-serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\testProject\\react-admin-serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\testProject\\react-admin-serve\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\testProject\\react-admin-serve\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\testProject\\react-admin-serve\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\testProject\\react-admin-serve\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\testProject\\react-admin-serve\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\testProject\\react-admin-serve\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\testProject\\react-admin-serve\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\testProject\\react-admin-serve\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+}

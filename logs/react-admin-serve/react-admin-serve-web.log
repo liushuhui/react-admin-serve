@@ -1,0 +1,1612 @@
+2021-07-27 13:36:37,104 ERROR 8356 [-/127.0.0.1/-/12ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8356
+hostname: DESKTOP-FI223C1
+
+2021-07-27 13:39:32,869 ERROR 8356 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8356
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:16:53,383 ERROR 12712 [-/127.0.0.1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:16:59,474 ERROR 12712 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:35,850 ERROR 12712 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12712
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:45,930 ERROR 12612 [-/127.0.0.1/-/4ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12612
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:19:47,158 ERROR 12612 [-/127.0.0.1/-/2ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 12612
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:21:33,334 ERROR 7796 [-/127.0.0.1/-/9ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 7796
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:21:58,495 ERROR 8572 [-/127.0.0.1/-/8ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 8572
+hostname: DESKTOP-FI223C1
+
+2021-07-27 14:24:24,324 ERROR 10324 [-/127.0.0.1/-/9ms GET /login] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\testProject\react-admin-serve\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\testProject\react-admin-serve\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\testProject\react-admin-serve\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+
+pid: 10324
+hostname: DESKTOP-FI223C1
+
+2021-07-27 17:27:31,509 ERROR 14032 [-/::1/-/23578ms POST /login] nodejs.ReferenceError: res is not defined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:10:7)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14032
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:14:01,958 ERROR 14276 [-/::1/-/30ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14276
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:14:33,743 ERROR 12496 [-/::1/-/27ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12496
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:16:01,333 ERROR 14600 [-/::1/-/31ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14600
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:02,543 ERROR 11828 [-/::1/-/34ms POST /login] nodejs.TypeError: Cannot read property 'create' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11828
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:36,886 ERROR 10364 [-/::1/-/42ms POST /login] nodejs.TypeError: Cannot read property 'create' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:14)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10364
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:21:46,124 ERROR 8304 [-/::1/-/38ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:14)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8304
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:22:02,192 ERROR 10752 [-/::1/-/30ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:27:29,748 ERROR 10752 [-/::1/-/5ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:27:57,905 ERROR 10752 [-/::1/-/6ms POST /login] nodejs.TypeError: Cannot read property 'insertOne' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:9:13)
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:43)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10752
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:38:57,671 ERROR 1308 [-/::1/-/9590ms POST /login] nodejs.TypeError: Cannot read property 'password' of undefined
+    at LoginService.index (D:\testProject\react-admin-serve\app\service\login.js:12:59)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:6:19)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1308
+hostname: DESKTOP-FI223C1
+
+2021-07-28 16:53:11,793 ERROR 13336 [-/::1/-/78ms POST /login] nodejs.ValidationError: User validation failed: password: Path `password` is required., username: Path `username` is required.
+    at model.Document.invalidate (D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2760:32)
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\document.js:2552:17
+    at D:\testProject\react-admin-serve\node_modules\mongoose\lib\schematype.js:1273:9
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+errors: {"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}}
+_message: "User validation failed"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13336
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:11:04,209 ERROR 14532 [-/::1/-/56ms POST /login] nodejs.ReferenceError: res is not defined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:21:7)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14532
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:23:16,052 ERROR 16020 [-/::1/-/67ms POST /login] nodejs.TypeError: Cannot read property 'password' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:47)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16020
+hostname: DESKTOP-FI223C1
+
+2021-07-28 17:25:49,615 ERROR 10404 [-/::1/-/44ms POST /login] nodejs.TypeError: Cannot read property 'password' of null
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:42)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10404
+hostname: DESKTOP-FI223C1
+
+2021-07-29 09:11:34,675 ERROR 15412 [-/::1/-/33ms POST /login] nodejs.ReferenceError: admin is not defined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:42)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15412
+hostname: DESKTOP-FI223C1
+
+2021-07-29 14:26:39,458 ERROR 15416 [-/::1/-/48ms POST /login] nodejs.TypeError: Cannot read property 'sign' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15416
+hostname: DESKTOP-FI223C1
+
+2021-07-29 14:28:04,860 ERROR 15416 [-/::1/-/43828ms POST /login] nodejs.TypeError: Cannot read property 'sign' of undefined
+    at LoginController.index (D:\testProject\react-admin-serve\app\controller\login.js:9:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\testProject\react-admin-serve\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (D:\testProject\react-admin-serve\node_modules\koa-bodyparser\index.js:95:5)
+    at async D:\testProject\react-admin-serve\node_modules\koa-static-cache\index.js:39:63
+    at async notfound (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\notfound.js:5:5)
+    at async meta (D:\testProject\react-admin-serve\node_modules\egg\app\middleware\meta.js:17:5)
+    at async cors (D:\testProject\react-admin-serve\node_modules\@koa\cors\index.js:98:16)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15416
+hostname: DESKTOP-FI223C1
+
+2021-07-29 16:02:37,180 WARN 14560 [-/::1/-/4ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14560
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:23:33,262 WARN 16692 [-/::1/-/3ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16692
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:24:33,159 WARN 6904 [-/::1/-/4ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6904
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:24:53,657 WARN 2892 [-/::1/-/4ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2892
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:25:15,842 WARN 11180 [-/::1/-/2ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:26:20,614 WARN 11180 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:27:50,606 WARN 11180 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:28:01,319 WARN 11180 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:28:09,951 WARN 11180 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-FI223C1
+
+2021-07-29 17:31:03,310 WARN 2776 [-/::1/-/3ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2776
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:42:11,928 WARN 11624 [-/::1/-/3ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11624
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:52:27,165 WARN 8616 [-/::1/-/5ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8616
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:55:13,867 WARN 7528 [-/::1/-/5ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7528
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:55:19,595 WARN 7528 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7528
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:55:39,036 WARN 7528 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7528
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:56:36,501 WARN 15668 [-/::1/-/4ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15668
+hostname: DESKTOP-FI223C1
+
+2021-07-30 08:59:35,972 WARN 13580 [-/::1/-/5ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13580
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:00:06,172 WARN 4180 [-/::1/-/4ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 4180
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:00:44,537 WARN 13772 [-/::1/-/5ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13772
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:01:01,073 WARN 13772 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13772
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:35:32,874 WARN 14860 [-/::1/-/3ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14860
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:37:43,755 WARN 14360 [-/::1/-/15ms POST /login] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14360
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:40:49,449 WARN 14360 [-/::1/-/1ms POST /login] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14360
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:48:17,212 WARN 7844 [-/::1/-/3ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:16,791 WARN 7844 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:21,336 WARN 7844 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:22,548 WARN 7844 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:24,300 WARN 7844 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:24,802 WARN 7844 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:39,427 WARN 7844 [-/::1/-/0ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:52:57,516 WARN 7844 [-/::1/-/1ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7844
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:54:23,708 WARN 416 [-/::1/-/5ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 416
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:56:18,985 ERROR 7688 [-/::1/-/4ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7688
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:57:25,619 ERROR 7688 [-/::1/-/1ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7688
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:58:13,141 ERROR 7120 [-/::1/-/2ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7120
+hostname: DESKTOP-FI223C1
+
+2021-07-30 09:59:04,293 ERROR 8912 [-/::1/-/4ms GET /admin] nodejs.Error: secret should be set
+    at module.exports (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:21:42)
+    at module.exports (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\middleware\jwt.js:6:10)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8912
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:01:08,003 ERROR 12396 [-/::1/-/80131ms GET /admin] nodejs.TypeError: Assignment to constant variable.
+    at jwt (D:\testProject\react-admin-serve\app\middleware\auth.js:4:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12396
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:01:47,634 ERROR 6088 [-/::1/-/21704ms GET /admin] nodejs.TypeError: Assignment to constant variable.
+    at jwt (D:\testProject\react-admin-serve\app\middleware\auth.js:4:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6088
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:25:20,617 ERROR 7208 [-/::1/-/50965ms GET /admin] nodejs.TokenExpiredError: jwt expired
+    at D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:94:10)
+    at AsyncFunction.<computed>.verify (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\extend\application.js:42:20)
+    at D:\testProject\react-admin-serve\app\middleware\auth.js:8:43
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+name: "TokenExpiredError"
+message: "jwt expired"
+expiredAt: "2021-07-30T01:59:13.000Z"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7208
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:32:24,916 ERROR 14628 [-/::1/-/3687ms GET /admin] nodejs.JsonWebTokenError: jwt malformed
+    at Object.module.exports [as verify] (D:\testProject\react-admin-serve\node_modules\jsonwebtoken\verify.js:63:17)
+    at AsyncFunction.<computed>.verify (D:\testProject\react-admin-serve\node_modules\egg-jwt\app\extend\application.js:42:20)
+    at authJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:8:43)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+name: "JsonWebTokenError"
+message: "jwt malformed"
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14628
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:34:42,083 WARN 14628 [-/::1/-/4000ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at authJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:16:27)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14628
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:35:49,289 WARN 15656 [-/::1/-/43689ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:16:27)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15656
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:46:28,701 WARN 15656 [-/::1/-/53670ms GET /admin] nodejs.UnauthorizedError: No authorization token was found
+    at middleware (D:\testProject\react-admin-serve\node_modules\koa-jwt2\lib\index.js:89:15)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:16:27)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "No authorization token was found"
+code: "credentials_required"
+status: 401
+inner: {"message":"No authorization token was found"}
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15656
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:51:49,476 ERROR 1096 [-/::1/-/7ms GET /admin] nodejs.TypeError: Cannot read property 'login' of undefined
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:10:44)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1096
+hostname: DESKTOP-FI223C1
+
+2021-07-30 10:53:37,656 ERROR 3220 [-/::1/-/8ms GET /admin] nodejs.TypeError: Cannot read property 'login' of undefined
+    at autHJwt (D:\testProject\react-admin-serve\app\middleware\auth.js:10:44)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at i18n (D:\testProject\react-admin-serve\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at dta (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xframe (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at xssProtection (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\xssProtection.js:7:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at nosniff (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\nosniff.js:8:11)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at noopen (D:\testProject\react-admin-serve\node_modules\egg-security\lib\middlewares\noopen.js:8:11)
+headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3220
+hostname: DESKTOP-FI223C1
+

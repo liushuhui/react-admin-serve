@@ -1,0 +1,19 @@
+{
+  "name": "react-admin-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug --sticky"
+  },
+  "dependencies": {
+    "egg": "^2.29.4",
+    "egg-cors": "^2.2.3",
+    "egg-jwt": "^3.1.7",
+    "egg-mongoose": "^3.3.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.16.4"
+  }
+}
