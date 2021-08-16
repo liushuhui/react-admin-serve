@@ -9,5 +9,5 @@ module.exports = app => {
   router.post('/login', controller.login.index);
   router.get('/getmenu', jwt, controller.menu.index);
   router.get('/getMenuDetail', jwt, controller.getMenuDetail.index);
-  router.post('/updateMenu', jwt, controller.updateMenu.index);
+  router.post('/updateMenu', jwt, controller.updateMenu.index)
 };
