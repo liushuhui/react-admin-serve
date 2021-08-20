@@ -1610,3 +1610,181 @@ headers: {"Access-Control-Allow-Origin":"http://localhost:8088","Access-Control-
 pid: 3220
 hostname: DESKTOP-FI223C1
 
+2021-08-16 14:12:56,266 ERROR 20156 [-/::1/-/87ms POST /uploadImg] nodejs.ReferenceError: sd is not defined
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:15:19)
+    at UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:48)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\testProject\react-admin-serve\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\testProject\react-admin-serve\node_modules\@eggjs\router\lib\router.js:191:33)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+    at D:\testProject\react-admin-serve\app\middleware\auth.js:6:13
+    at fn (D:\testProject\react-admin-serve\node_modules\egg-core\lib\loader\mixin\middleware.js:112:12)
+    at dispatch (D:\testProject\react-admin-serve\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20156
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:25:03,085 ERROR 7516 [-/::1/-/42ms POST /uploadImg] nodejs.ENOENTError: ENOENT: no such file or directory, open './app\public\upload\20210816\1629095103075.png'
+    at Object.openSync (fs.js:476:3)
+    at Object.writeFileSync (fs.js:1467:35)
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:23:10)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+errno: -4058
+syscall: "open"
+code: "ENOENT"
+path: "./app\\public\\upload\\20210816\\1629095103075.png"
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ENOENTError"
+pid: 7516
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:41:27,613 ERROR 14048 [-/::1/-/34ms POST /uploadImg] nodejs.TypeError: Cannot read property 'save' of undefined
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14048
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:42:35,341 ERROR 8472 [-/::1/-/48ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8472
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:43:46,026 ERROR 12256 [-/::1/-/34ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12256
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:44:33,796 ERROR 2136 [-/::1/-/45ms POST /uploadImg] nodejs.TypeError: Cannot read property 'save' of undefined
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2136
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:45:20,470 ERROR 16412 [-/::1/-/34ms POST /uploadImg] nodejs.TypeError: Cannot read property 'save' of undefined
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16412
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:46:42,106 ERROR 1412 [-/::1/-/40ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1412
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:48:04,489 ERROR 1412 [-/::1/-/54771ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1412
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:49:03,168 ERROR 16948 [-/::1/-/42059ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16948
+hostname: DESKTOP-FI223C1
+
+2021-08-16 14:52:10,980 ERROR 14616 [-/::1/-/33567ms POST /uploadImg] nodejs.TypeError: ctx.model.Upload.save is not a function
+    at UploadImgService.index (D:\testProject\react-admin-serve\app\service\uploadImg.js:28:39)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async UploadImgController.index (D:\testProject\react-admin-serve\app\controller\uploadImg.js:7:20)
+headers: {"Access-Control-Allow-Origin":["http://localhost:8088"],"Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14616
+hostname: DESKTOP-FI223C1
+
+2021-08-16 15:18:28,001 ERROR 7592 [-/::1/-/51ms GET /getImg] nodejs.TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at respond (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:279:15)
+    at handleResponse (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:166:34)
+
+pid: 7592
+hostname: DESKTOP-FI223C1
+
+2021-08-16 15:18:49,778 ERROR 9424 [-/::1/-/7737ms GET /getImg] nodejs.TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at respond (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:279:15)
+    at handleResponse (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:166:34)
+
+pid: 9424
+hostname: DESKTOP-FI223C1
+
+2021-08-17 09:46:41,604 ERROR 12428 [-/::1/-/2ms GET /upload/20210817/1629164486481.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'D:\testProject\react-admin-serve\app\public\upload\20210817\1629164486481.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'D:\testProject\react-admin-serve\app\public\upload\20210817\1629164486481.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "D:\\testProject\\react-admin-serve\\app\\public\\upload\\20210817\\1629164486481.jpg"
+name: "ENOENTError"
+pid: 12428
+hostname: DESKTOP-FI223C1
+
+2021-08-17 16:56:34,593 ERROR 9840 [-/::1/-/3ms GET /getArticle] nodejs.TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    --> starting at object with constructor 'Server'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'coreTopology' -> object with constructor 'Server'
+    |     ...
+    |     property 's' -> object with constructor 'Object'
+    --- property 'topology' closes the circle
+    at JSON.stringify (<anonymous>)
+    at respond (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:279:15)
+    at handleResponse (D:\testProject\react-admin-serve\node_modules\koa\lib\application.js:166:34)
+
+pid: 9840
+hostname: DESKTOP-FI223C1
+

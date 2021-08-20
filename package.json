@@ -11,7 +11,10 @@
     "egg": "^2.29.4",
     "egg-cors": "^2.2.3",
     "egg-jwt": "^3.1.7",
-    "egg-mongoose": "^3.3.1"
+    "egg-mongoose": "^3.3.1",
+    "egg-multipart": "^2.13.1",
+    "pump": "^3.0.0",
+    "silly-datetime": "^0.1.2"
   },
   "devDependencies": {
     "egg-bin": "^4.16.4"

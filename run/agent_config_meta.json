@@ -75,11 +75,38 @@
       "checkAddress": "D:\\testProject\\react-admin-serve\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
+  "multipart": {
+    "mode": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+      "disable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js"
+    },
+    "fileSize": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "autoFields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
   "cors": {
     "origin": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
     "credentials": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
     "allowMethods": "D:\\testProject\\react-admin-serve\\config\\config.default.js"
   },
+  "static": {
+    "prefix": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "dir": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
+    "dynamic": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "uploadDir": "D:\\testProject\\react-admin-serve\\config\\config.default.js",
   "session": {
     "maxAge": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
     "key": "D:\\testProject\\react-admin-serve\\node_modules\\egg-session\\config\\config.default.js",
@@ -124,24 +151,6 @@
   "schedule": {
     "directory": "D:\\testProject\\react-admin-serve\\node_modules\\egg-schedule\\config\\config.default.js"
   },
-  "multipart": {
-    "mode": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "allowArrayField": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-    "cleanSchedule": {
-      "cron": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js",
-      "disable": "D:\\testProject\\react-admin-serve\\node_modules\\egg-multipart\\config\\config.default.js"
-    }
-  },
   "development": {
     "watchDirs": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
     "ignoreDirs": "D:\\testProject\\react-admin-serve\\node_modules\\egg-development\\config\\config.default.js",
@@ -158,14 +167,6 @@
     "maxFiles": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
     "rotateDuration": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js",
     "maxDays": "D:\\testProject\\react-admin-serve\\node_modules\\egg-logrotator\\config\\config.default.js"
-  },
-  "static": {
-    "prefix": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "D:\\testProject\\react-admin-serve\\node_modules\\egg-static\\config\\config.default.js"
   },
   "view": {
     "root": "D:\\testProject\\react-admin-serve\\node_modules\\egg-view\\config\\config.default.js",
@@ -196,7 +197,10 @@
       "egg": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
       "egg-cors": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
       "egg-jwt": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
-      "egg-mongoose": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
+      "egg-mongoose": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-multipart": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "pump": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js",
+      "silly-datetime": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "egg-bin": "D:\\testProject\\react-admin-serve\\node_modules\\egg\\config\\config.default.js"

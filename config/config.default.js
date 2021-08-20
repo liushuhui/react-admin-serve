@@ -5,6 +5,7 @@
 /**
  * @param {Egg.EggAppInfo} appInfo app info
  */
+const path = require('path');
 module.exports = appInfo => {
   /**
    * built-in config
@@ -36,16 +37,34 @@ module.exports = appInfo => {
     csrf: {
       enable: false
     },
-    domainWhiteList: [ 'http://localhost:7001', 'http://127.0.0.1:7001','http://localhost:7002', 'http://127.0.0.1:7002' ]
+    domainWhiteList: ['*']
   }
+  
+  config.multipart = {
+    mode: 'file'
+  };
   config.cors = {
-    origin: ['http://localhost:8088'], //只允许这个域进行访问接口
+    origin: '*', //只允许这个域进行访问接口
     credentials: true, // 允许跨域请求携带cookies
     allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH'
   };
-  // add your user config here
+  
+  // 图片上传
   const userConfig = {
-    // myAppName: 'egg',
+    static: {
+      prefix: '/',
+      dir: path.join(appInfo.baseDir, 'app/public')
+    },
+    uploadDir: 'app/public/upload',
+    multipart: {
+      /** 文件接收配置 */
+      mode: 'file',
+      cleanSchedule: {
+        cron: '0 0 4 * * *',
+      },
+      fileSize: '100mb',
+      /** 文件接收配置 */
+    }
   };
 
   return {

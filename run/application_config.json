@@ -15,10 +15,7 @@
     },
     "security": {
       "domainWhiteList": [
-        "http://localhost:7001",
-        "http://127.0.0.1:7001",
-        "http://localhost:7002",
-        "http://127.0.0.1:7002"
+        "*"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
@@ -140,20 +137,20 @@
       "directory": []
     },
     "multipart": {
-      "mode": "stream",
+      "mode": "file",
       "autoFields": false,
       "defaultCharset": "utf8",
       "fieldNameSize": 100,
       "fieldSize": 102400,
       "fields": 10,
-      "fileSize": 10485760,
+      "fileSize": 104857600,
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
       "allowArrayField": false,
       "tmpdir": "C:\\Users\\刘曙辉\\AppData\\Local\\Temp\\egg-multipart-tmp\\react-admin-serve",
       "cleanSchedule": {
-        "cron": "0 30 4 * * *",
+        "cron": "0 0 4 * * *",
         "disable": false
       }
     },
@@ -175,7 +172,7 @@
       "maxDays": 31
     },
     "static": {
-      "prefix": "/public/",
+      "prefix": "/",
       "dir": "D:\\testProject\\react-admin-serve\\app\\public",
       "dynamic": true,
       "preload": false,
@@ -204,9 +201,7 @@
       }
     },
     "cors": {
-      "origin": [
-        "http://localhost:8088"
-      ],
+      "origin": "*",
       "credentials": true,
       "allowMethods": "GET,HEAD,PUT,POST,DELETE,PATCH"
     },
@@ -237,7 +232,10 @@
         "egg": "^2.29.4",
         "egg-cors": "^2.2.3",
         "egg-jwt": "^3.1.7",
-        "egg-mongoose": "^3.3.1"
+        "egg-mongoose": "^3.3.1",
+        "egg-multipart": "^2.13.1",
+        "pump": "^3.0.0",
+        "silly-datetime": "^0.1.2"
       },
       "devDependencies": {
         "egg-bin": "^4.16.4"
@@ -330,6 +328,7 @@
       "session",
       "securities",
       "i18n",
+      "multipart",
       "eggLoaderTrace"
     ],
     "workerStartTimeout": 600000,
@@ -355,6 +354,7 @@
         "/login"
       ]
     },
+    "uploadDir": "app/public/upload",
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",
@@ -365,7 +365,7 @@
         "fieldNameSize": 100,
         "fieldSize": 102400,
         "fields": 10,
-        "fileSize": 10485760,
+        "fileSize": 104857600,
         "files": 10
       },
       "checkFile": "<Function checkFile>"
